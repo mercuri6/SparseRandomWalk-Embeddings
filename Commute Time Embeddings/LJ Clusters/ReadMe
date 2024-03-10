@@ -1,0 +1,5 @@
+The database files in this directory were produced using PELE: Python Energy Landscape Explorer.
+It is a python version of GMIN, OPTIM, and PATHSAMPLE, written by David Wales of Cambridge University and collaborators (http://www-wales.ch.cam.ac.uk/software.html).
+Documentation and source code can be found here: 
+http://pele-python.github.io/pele/
+https://github.com/pele-python/pele
